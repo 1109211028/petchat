@@ -8,7 +8,7 @@ print('哥吉拉與金剛：新帝國=7078')
 print('功夫熊貓4=7133')
 print('我在這裡等你=7208')
 print('莎莉=7136')
-movienum = input("請輸入電影代號：")
+# movienum = input("請輸入電影代號：")
 
 url = f"https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id={movienum}"
 
